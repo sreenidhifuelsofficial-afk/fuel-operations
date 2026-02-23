@@ -4,6 +4,7 @@ backend/node_modules/
 apps/**/node_modules/
 packages/**/node_modules/
 frontend/build/
+.vscode/
 .env
 backend/.env
 *.log

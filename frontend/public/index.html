@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+  <!-- Brand favicon -->
+  <link rel="icon" type="image/png" href="/assets/branding/logo.png" />
+  <link rel="apple-touch-icon" href="/assets/branding/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sreenidhi Fuel Ops</title>
+  </head>
+  <body>
+  <noscript>
+    <header>
+      <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;gap:12px;">
+        <div style="font-weight:700;font-size:20px">Sreenidhi Fuel Ops</div>
+        <nav class="nav" id="nav"></nav>
+      </div>
+    </header>
+    <main class="wrap" id="main">
+      <div style="padding:32px 0;text-align:center;color:#6b7280;font-size:18px;">
+        Welcome to Sreenidhi Fuel Ops!<br>
+        If you see this message, JavaScript may not be running.<br>
+        Please check your browser settings or open the site with a local server.
+      </div>
+    </main>
+    <div id="toast" class="toast" style="display:none"></div>
+    <div id="profileOverlay" class="overlay" style="display:none">
+      <div class="modal">
+        <div class="modal-header">
+          <div id="profileTitle" style="font-weight:600">Customer Profile</div>
+          <button class="btn ghost" onclick="closeProfile()">Close</button>
+        </div>
+        <div class="modal-body" id="profileBody"></div>
+      </div>
+    </div>
+  </noscript>
+  <div id="root"></div>
+</body>
+</html>

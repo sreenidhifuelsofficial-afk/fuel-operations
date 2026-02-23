@@ -1,0 +1,8 @@
+{
+  "name": "@fuel-ops/auth-service",
+  "version": "1.0.0",
+  "description": "Auth and user management service",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {}
+}

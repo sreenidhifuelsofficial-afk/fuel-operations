@@ -1,0 +1,7 @@
+{
+  "name": "@fuel-ops/middleware",
+  "version": "1.0.0",
+  "description": "Shared Express middleware for Fuel Ops services",
+  "main": "index.js",
+  "private": true
+}

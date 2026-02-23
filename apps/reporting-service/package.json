@@ -1,0 +1,8 @@
+{
+  "name": "@fuel-ops/reporting-service",
+  "version": "1.0.0",
+  "description": "Fuel Operations reporting service — heavy read-only endpoints",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {}
+}

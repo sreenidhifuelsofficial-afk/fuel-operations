@@ -1,0 +1,7 @@
+{
+  "name": "@fuel-ops/query",
+  "version": "1.0.0",
+  "description": "Read query isolation layer (separate pg pool) for Fuel Ops",
+  "main": "index.js",
+  "private": true
+}

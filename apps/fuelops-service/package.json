@@ -1,0 +1,8 @@
+{
+  "name": "@fuel-ops/fuelops-service",
+  "version": "1.0.0",
+  "description": "Fuel Operations CRUD service",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {}
+}

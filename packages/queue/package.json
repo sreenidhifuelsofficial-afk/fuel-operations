@@ -1,0 +1,7 @@
+{
+  "name": "@fuel-ops/queue",
+  "version": "1.0.0",
+  "description": "Lightweight job queue abstraction for Fuel Ops (in-process or Redis-backed)",
+  "main": "index.js",
+  "private": true
+}

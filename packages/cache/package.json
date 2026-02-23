@@ -1,0 +1,7 @@
+{
+  "name": "@fuel-ops/cache",
+  "version": "1.0.0",
+  "description": "Redis-backed cache abstraction for Fuel Ops (falls back to in-memory)",
+  "main": "index.js",
+  "private": true
+}

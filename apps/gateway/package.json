@@ -1,0 +1,11 @@
+{
+  "name": "@fuel-ops/gateway",
+  "version": "1.0.0",
+  "description": "API Gateway — mounts all service routers under original paths",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}

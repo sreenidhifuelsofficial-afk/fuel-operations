@@ -1,0 +1,25 @@
+{
+  "short_name": "Sreenidhi Fuel Ops",
+  "name": "Sreenidhi Fuel Ops",
+  "icons": [
+    {
+      "src": "/assets/branding/logo.png",
+      "sizes": "16x16 24x24 32x32 64x64 152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/branding/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/branding/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#ffffff"
+}

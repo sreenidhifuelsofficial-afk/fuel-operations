@@ -1,0 +1,7 @@
+{
+  "name": "@fuel-ops/db",
+  "version": "1.0.0",
+  "description": "Shared PostgreSQL connection pool for Fuel Ops services",
+  "main": "index.js",
+  "private": true
+}
